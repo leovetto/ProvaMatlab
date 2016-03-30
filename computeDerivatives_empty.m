@@ -13,5 +13,6 @@ function [fx, fy, ft] = computeDerivatives(im1, im2)
     asd
     asd
     asd
+    kmklmlk
 
 end
