@@ -10,5 +10,8 @@ function [fx, fy, ft] = computeDerivatives(im1, im2)
     fx = imfilter(im1, Sobel_x) + imfilter(im2, Sobel_x); 
     fy = imfilter(im1, Sobel_y) + imfilter(im2, Sobel_y); 
     ft = im1 - im2;
+    asd
+    asd
+    asd
 
 end
